@@ -1,5 +1,3 @@
-# test
-    indented
 #!/usr/bin/env python3
 """
 Сборка XML-прайс-листа Kaspi для BSKZ (Baseus). Запускается GitHub Actions каждый час.
