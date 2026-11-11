@@ -37,7 +37,7 @@ KASPI_TOKEN = os.environ.get("KASPI_TOKEN", "").strip()
 KASPI_API = "https://kaspi.kz/shop/api/v2"
 
 COMPANY = "BSKZ"
-MERCHANT_ID = "30037772"
+MERCHANT_ID = "30482122"
 BRAND = "Baseus"
 SKU_PREFIX = "BS"
 STORE_SUPPLIER = "PP10"
