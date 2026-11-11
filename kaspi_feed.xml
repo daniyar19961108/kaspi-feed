@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-11 12:19" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-11 14:38" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>BSKZ</company>
   <merchantid>30482122</merchantid>
   <offers>
@@ -7,7 +7,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerCore CR11 20000mAh 67W Black (E0027H00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="39"/>
+        <availability available="yes" storeId="PP10" stockCount="38"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>31990</price>
@@ -187,7 +187,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FM11 Ultra-Mini 10000mAh 22.5W Black (P1008210E123-0</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="3"/>
+        <availability available="yes" storeId="PP10" stockCount="2"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>16990</price>
@@ -232,7 +232,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FP11 10000mAh 15W White (P1008210C213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="37"/>
+        <availability available="yes" storeId="PP10" stockCount="36"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>9990</price>
@@ -259,7 +259,7 @@
       <model>Портативный внешний аккумулятор Baseus FM21 Mini Qi2.2 10000mAh 45W Magnetic Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="30"/>
+        <availability available="yes" storeId="PP10" stockCount="29"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>24990</price>
@@ -394,7 +394,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo AM52 Qi2.2 10000mAh 45W USB-C Cable 30cm Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="32"/>
+        <availability available="yes" storeId="PP10" stockCount="31"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>28990</price>
@@ -484,7 +484,7 @@
       <model>Адаптер питания Baseus EnerFill FH21 Desktop Charging Station 4C+2U 120W EU Moon White</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="33"/>
+        <availability available="yes" storeId="PP10" stockCount="32"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>22990</price>
@@ -628,7 +628,7 @@
       <model>Адаптер питания Baseus Palm C+U 30W White( в комлпекте кабель Type-c) (P1011160A213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="11"/>
+        <availability available="yes" storeId="PP10" stockCount="10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>8990</price>
@@ -925,7 +925,7 @@
       <model>Наушники Baseus Bowie MC2 Air Open-Ear True Earbuds Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="93"/>
+        <availability available="yes" storeId="PP10" stockCount="92"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>19990</price>
@@ -1060,7 +1060,7 @@
       <model>Светодиодная лампа для монитора Baseus i-wok3 Series Asymmetric Light Source Monitor Lamp</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="29"/>
+        <availability available="yes" storeId="PP10" stockCount="28"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>21990</price>
