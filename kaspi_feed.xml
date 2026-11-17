@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-17 14:14" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-17 23:38" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>BSKZ</company>
   <merchantid>30482122</merchantid>
   <offers>
@@ -232,7 +232,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FP11 10000mAh 15W White (P1008210C213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="35"/>
+        <availability available="yes" storeId="PP10" stockCount="29"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>9990</price>
@@ -484,7 +484,7 @@
       <model>Адаптер питания Baseus EnerFill FH21 Desktop Charging Station 4C+2U 120W EU Moon White</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="31"/>
+        <availability available="yes" storeId="PP10" stockCount="36"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>22990</price>
@@ -547,7 +547,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W Black (P10111602113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="88"/>
+        <availability available="yes" storeId="PP10" stockCount="82"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -574,7 +574,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W White(P10111602213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="137"/>
+        <availability available="yes" storeId="PP10" stockCount="131"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -763,7 +763,7 @@
       <model>Интерфейсный кабель Baseus Silky USB to iP 2.4A 1m Black (P10377702113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="127"/>
+        <availability available="yes" storeId="PP10" stockCount="117"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>2990</price>
@@ -799,7 +799,7 @@
       <model>Интерфейсный кабель Baseus Tungsten Fast Charging Data Cable USB-C to iP 30W 1.2m Cluster Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="180"/>
+        <availability available="yes" storeId="PP10" stockCount="179"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -862,7 +862,7 @@
       <model>Наушники Baseus Bass BH1 Lite Cosmic Black (A0203C00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="3"/>
+        <availability available="yes" storeId="PP10" stockCount="2"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>14990</price>
@@ -934,7 +934,7 @@
       <model>Наушники Baseus BP1 NC White (A0010705)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="77"/>
+        <availability available="yes" storeId="PP10" stockCount="76"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>11990</price>
@@ -1060,7 +1060,7 @@
       <model>Светодиодная лампа для монитора Baseus i-wok3 Series Asymmetric Light Source Monitor Lamp</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="7"/>
+        <availability available="yes" storeId="PP10" stockCount="6"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>21990</price>
