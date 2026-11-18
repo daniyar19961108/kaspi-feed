@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-18 14:11" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-18 23:04" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>BSKZ</company>
   <merchantid>30482122</merchantid>
   <offers>
@@ -304,7 +304,7 @@
       <model>Портативный внешний аккумулятор Baseus Magnetic Mini 10000mAh 30W Blue (P1002210B333-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="29"/>
+        <availability available="yes" storeId="PP10" stockCount="28"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>15990</price>
@@ -718,7 +718,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to iP 20W 1m Cluster Black (P10377700113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="153"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>2990</price>
@@ -727,7 +727,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to iP 20W 2m White (P10377700213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="160"/>
+        <availability available="yes" storeId="PP10" stockCount="128"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -736,7 +736,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 1m Black (P10377704113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="164"/>
+        <availability available="yes" storeId="PP10" stockCount="120"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -745,7 +745,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 1m White(P10377704213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="240"/>
+        <availability available="yes" storeId="PP10" stockCount="218"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -754,7 +754,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 2m Black (P10377704113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="70"/>
+        <availability available="yes" storeId="PP10" stockCount="28"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -772,7 +772,7 @@
       <model>Интерфейсный кабель Baseus Silky USB to Type-C 100W 2m Black (P10377703113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="86"/>
+        <availability available="yes" storeId="PP10" stockCount="69"/>
         <availability available="yes" storeId="PP7" stockCount="2"/>
       </availabilities>
       <price>3990</price>
@@ -952,7 +952,7 @@
       <model>Док-станция Baseus NU1 Air Spacemate 12-in-1 Grey (B00568103813-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="4"/>
+        <availability available="yes" storeId="PP10" stockCount="2"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>52990</price>
@@ -1060,7 +1060,7 @@
       <model>Светодиодная лампа для монитора Baseus i-wok3 Series Asymmetric Light Source Monitor Lamp</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="5"/>
+        <availability available="yes" storeId="PP10" stockCount="2"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>21990</price>
