@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-25 06:38" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-25 15:31" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>BSKZ</company>
   <merchantid>30482122</merchantid>
   <offers>
@@ -169,7 +169,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC51 30000mAh 22.5W Moon White (E0028101)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="44"/>
+        <availability available="yes" storeId="PP10" stockCount="43"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>25990</price>
@@ -268,7 +268,7 @@
       <model>Портативный внешний аккумулятор Baseus FP51 Bipow 2 Pro CCC 20000mAh 30W Cable Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="50"/>
+        <availability available="yes" storeId="PP10" stockCount="28"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>20990</price>
@@ -304,7 +304,7 @@
       <model>Портативный внешний аккумулятор Baseus Magnetic Mini 10000mAh 30W Blue (P1002210B333-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="21"/>
+        <availability available="yes" storeId="PP10" stockCount="19"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>15990</price>
@@ -475,7 +475,7 @@
       <model>Адаптер питания Baseus EnerFill FE22 Fast Charger 2C+U 70W EU Moon White</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="29"/>
+        <availability available="yes" storeId="PP10" stockCount="30"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>12490</price>
@@ -520,7 +520,7 @@
       <model>Адаптер питания Baseus FN22 1C 30W EU Moon White (E0123101)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="33"/>
+        <availability available="yes" storeId="PP10" stockCount="35"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>5990</price>
@@ -547,7 +547,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W Black (P10111602113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="62"/>
+        <availability available="yes" storeId="PP10" stockCount="56"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -565,7 +565,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W White (P10111602213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="110"/>
+        <availability available="yes" storeId="PP10" stockCount="107"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>5990</price>
@@ -574,7 +574,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W White(P10111602213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="110"/>
+        <availability available="yes" storeId="PP10" stockCount="109"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -646,7 +646,7 @@
       <model>Адаптер питания Baseus PicoGo GaN 1C 45W White (P10176800213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="85"/>
+        <availability available="yes" storeId="PP10" stockCount="86"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>9990</price>
@@ -682,7 +682,7 @@
       <model>Интерфейсный кабель Baseus Foamed Silicone Pro Magnetic USB-C to USB-C 100W Black 1m (E0426D00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="146"/>
+        <availability available="yes" storeId="PP10" stockCount="145"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>6990</price>
@@ -727,7 +727,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to iP 20W 2m White (P10377700213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="101"/>
+        <availability available="yes" storeId="PP10" stockCount="95"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -736,7 +736,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 1m Black (P10377704113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="115"/>
+        <availability available="yes" storeId="PP10" stockCount="120"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -772,7 +772,7 @@
       <model>Интерфейсный кабель Baseus Silky USB to Type-C 100W 2m Black (P10377703113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="84"/>
+        <availability available="yes" storeId="PP10" stockCount="82"/>
         <availability available="yes" storeId="PP7" stockCount="2"/>
       </availabilities>
       <price>3990</price>
@@ -862,7 +862,7 @@
       <model>Наушники Baseus Bass BH1 Lite Cosmic Black (A0203C00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="11"/>
+        <availability available="yes" storeId="PP10" stockCount="10"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>14990</price>
@@ -1090,7 +1090,7 @@
         <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
-      <price>49</price>
+      <price>89</price>
     </offer>
   </offers>
 </kaspi_catalog>
