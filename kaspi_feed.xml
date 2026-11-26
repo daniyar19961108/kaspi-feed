@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-26 07:53" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-26 17:35" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>BSKZ</company>
   <merchantid>30482122</merchantid>
   <offers>
@@ -25,7 +25,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC11 10000mAh 22.5W Blue (E0027R06)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="13"/>
+        <availability available="yes" storeId="PP10" stockCount="50"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>14990</price>
@@ -43,7 +43,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC11 20000mAh 22.5W Black (E0027S04)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="39"/>
+        <availability available="yes" storeId="PP10" stockCount="34"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>19990</price>
@@ -52,7 +52,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC21 Qpow 3 Ultra 10000mAh 45W Black (E0027Q00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="14"/>
+        <availability available="yes" storeId="PP10" stockCount="9"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>19990</price>
@@ -88,7 +88,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC31 10000mAh 22.5W Black(P10082106123-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="50"/>
+        <availability available="yes" storeId="PP10" stockCount="40"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>15990</price>
@@ -160,7 +160,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC51 30000mAh 22.5W Black (E0028100)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="37"/>
+        <availability available="yes" storeId="PP10" stockCount="36"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>25990</price>
@@ -169,7 +169,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC51 30000mAh 22.5W Moon White (E0028101)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="43"/>
+        <availability available="yes" storeId="PP10" stockCount="44"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>25990</price>
@@ -250,7 +250,7 @@
       <model>Портативный внешний аккумулятор Baseus FC51 Bipow 2 Pro CCC 10000mAh 22.5W Cable Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="17"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>14990</price>
@@ -259,7 +259,7 @@
       <model>Портативный внешний аккумулятор Baseus FM21 Mini Qi2.2 10000mAh 45W Magnetic Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="29"/>
+        <availability available="yes" storeId="PP10" stockCount="24"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>24990</price>
@@ -268,7 +268,7 @@
       <model>Портативный внешний аккумулятор Baseus FP51 Bipow 2 Pro CCC 20000mAh 30W Cable Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="28"/>
+        <availability available="yes" storeId="PP10" stockCount="50"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>20990</price>
@@ -286,7 +286,7 @@
       <model>Портативный внешний аккумулятор Baseus Lipow 20000mAh 22.5W White (P10079102213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="50"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>16990</price>
@@ -313,7 +313,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo Air AM71 CCC 5000mAh 22.5W Dark Cherry</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="56"/>
+        <availability available="yes" storeId="PP10" stockCount="26"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>29990</price>
@@ -367,7 +367,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo AM41 Ultra-Slim 5000mAh 20W Titanium (E0026703)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="56"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>19990</price>
@@ -385,7 +385,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo AM52 Qi2.2 10000mAh 45W Built-in Cable Dark Cherry</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="32"/>
+        <availability available="yes" storeId="PP10" stockCount="2"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>28990</price>
@@ -394,7 +394,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo AM52 Qi2.2 10000mAh 45W USB-C Cable 30cm Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="26"/>
+        <availability available="yes" storeId="PP10" stockCount="21"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>28990</price>
@@ -403,7 +403,7 @@
       <model>Портативный внешний аккумулятор Baseus PicoGo Ultra-Slim Qi2 Magnetic 10000mAh 27W Natural Titanium</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="50"/>
+        <availability available="yes" storeId="PP10" stockCount="34"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>23990</price>
@@ -466,7 +466,7 @@
       <model>Адаптер питания Baseus EnerFill FE22 Fast Charger 2C+U 70W EU Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="43"/>
+        <availability available="yes" storeId="PP10" stockCount="23"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>12490</price>
@@ -493,7 +493,7 @@
       <model>Адаптер питания Baseus EnerFill FN22 Fast Charger 1C 20W EU Moon White</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="120"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -502,7 +502,7 @@
       <model>Адаптер питания Baseus EnerFill FN22 Fast Charger 1C 30W EU Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="120"/>
+        <availability available="yes" storeId="PP10" stockCount="7"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>5990</price>
@@ -511,7 +511,7 @@
       <model>Адаптер питания Baseus EnerFill FN22 Fast Charger 1C 45W EU Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="110"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>8990</price>
@@ -574,7 +574,7 @@
       <model>Адаптер питания Baseus Palm 1C 20W White(P10111602213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="109"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -592,7 +592,7 @@
       <model>Адаптер питания Baseus Palm C+U 20W EU Black( в комлпекте кабель Type-c) (P10111608113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="35"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>6490</price>
@@ -601,7 +601,7 @@
       <model>Адаптер питания Baseus Palm C+U 20W EU White ( в комлпекте кабель Type-c) (P10111608213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="54"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>6490</price>
@@ -646,7 +646,7 @@
       <model>Адаптер питания Baseus PicoGo GaN 1C 45W White (P10176800213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="86"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>9990</price>
@@ -664,7 +664,7 @@
       <model>Интерфейсный кабель Baseus Cafule 4KHDMI Male To 4KHDMI Male Adapter Cable 3m Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="8"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>4990</price>
@@ -709,7 +709,7 @@
       <model>Интерфейсный кабель Baseus Pudding Type-C to Type-C 100W 1.2m Black (P10355702111-B1)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="100"/>
+        <availability available="yes" storeId="PP10" stockCount="18"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -727,7 +727,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to iP 20W 2m White (P10377700213-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="95"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -736,7 +736,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 1m Black (P10377704113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="120"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -745,7 +745,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 1m White(P10377704213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="226"/>
+        <availability available="yes" storeId="PP10" stockCount="9"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -754,7 +754,7 @@
       <model>Интерфейсный кабель Baseus Silky Type-C to Type-C 100W 2m Black (P10377704113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="37"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -763,7 +763,7 @@
       <model>Интерфейсный кабель Baseus Silky USB to iP 2.4A 1m Black (P10377702113-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="116"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>2990</price>
@@ -772,7 +772,7 @@
       <model>Интерфейсный кабель Baseus Silky USB to Type-C 100W 2m Black (P10377703113-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="82"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="yes" storeId="PP7" stockCount="2"/>
       </availabilities>
       <price>3990</price>
@@ -790,7 +790,7 @@
       <model>Интерфейсный кабель Baseus StarSpeed 1-for-3 USB to M+L+C 3.5A 1.2m White (CAXS000002)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="25"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>4990</price>
@@ -799,7 +799,7 @@
       <model>Интерфейсный кабель Baseus Tungsten Fast Charging Data Cable USB-C to iP 30W 1.2m Cluster Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="158"/>
+        <availability available="yes" storeId="PP10" stockCount="108"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -826,7 +826,7 @@
       <model>Интерфейсный кабель Baseus Ultra-Fast USB-C to USB-C 100W 1m Blue (P10376302312-01)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="113"/>
+        <availability available="yes" storeId="PP10" stockCount="13"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -835,7 +835,7 @@
       <model>Интерфейсный кабель Baseus Ultra-Fast USB-C to USB-C 100W 1m Stellar White (P10376302222-03)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="144"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -925,7 +925,7 @@
       <model>Наушники Baseus Bowie MC2 Air Open-Ear True Earbuds Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="79"/>
+        <availability available="yes" storeId="PP10" stockCount="78"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>19990</price>
@@ -934,7 +934,7 @@
       <model>Наушники Baseus BP1 NC White (A0010705)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="70"/>
+        <availability available="yes" storeId="PP10" stockCount="69"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>11990</price>
@@ -952,7 +952,7 @@
       <model>Док-станция Baseus NU1 Air Spacemate 12-in-1 Grey (B00568103813-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="2"/>
+        <availability available="yes" storeId="PP10" stockCount="1"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>52990</price>
@@ -970,7 +970,7 @@
       <model>Док-станция Baseus UltraJoy Series 7-Port HUB Docking Station Space Grey</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="25"/>
+        <availability available="yes" storeId="PP10" stockCount="45"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>19990</price>
@@ -1024,7 +1024,7 @@
       <model>Автомобильный компрессор Baseus Super Mini Pro Black (C11159300111-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="no" storeId="PP10"/>
+        <availability available="yes" storeId="PP10" stockCount="7"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>17990</price>
@@ -1069,7 +1069,7 @@
       <model>Зарядный кейс для стилуса Baseus Smooth Writing 3 White</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="92"/>
+        <availability available="yes" storeId="PP10" stockCount="72"/>
         <availability available="no" storeId="PP7"/>
       </availabilities>
       <price>3990</price>
@@ -1078,7 +1078,7 @@
       <model>Стилус Baseus Smooth Writing 3 White (P80080806213-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP10" stockCount="62"/>
+        <availability available="no" storeId="PP10"/>
         <availability available="yes" storeId="PP7" stockCount="1"/>
       </availabilities>
       <price>11990</price>
